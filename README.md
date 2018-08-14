@@ -24,4 +24,4 @@ In your modules build.gradle file
 
 ## Author
 - Md Sajjad Mistri
-[Email](sjd753@gmail.com)
+#### Email: sjd753@gmail.com
